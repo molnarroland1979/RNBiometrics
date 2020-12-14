@@ -4,7 +4,7 @@ THIS IS THE WORK OF LUCIAN BERESESCU AND PROPERTY OF SV.
 
 ## Getting started
 
-`$ yarn add git+https://gitlab.softvision.ro/lucian.beresescu/rnbiometrics.git`
+`$ yarn add git+https://github.com/molnarroland1979/RNBiometrics`
 
 ### Mostly automatic installation (react < 0.59)
 
