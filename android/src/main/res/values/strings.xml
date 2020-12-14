@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="biometricsTitle">Unlock app</string>
+    <string name="biometricsDescription">Log in using your biometric credential</string>
+    <string name="biometricsCancel">USE PASSWORD</string>
+</resources>
